@@ -1,0 +1,41 @@
+_repo: Histoire-des-ducs-de-Normandie-suivie-de-Vie-de-Guillaume-le-Conquerant_64008
+_version: 0.0.1
+contributor:
+  contributor: &id001
+    agent_name: Guizot, François
+    aliases:
+    - Guisot, M. (François)
+    - Guizot, FranÃ§ois
+    - Guizot, Francois Pierre Guillaume
+    - Guizot, M. (François)
+    - Guizot, Monsieur (François)
+    - Guizot, François Pierre Guillaume
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
+    - https://en.wikipedia.org/wiki/François_Guizot
+  translator: *id001
+creator:
+  authors:
+  - agent_name: Jumièges, Guillaume de
+    gutenberg_agent_id: '52714'
+    url: http://www.gutenberg.org/2009/agents/52714
+  - agent_name: Poitiers, Guillaume de
+    gutenberg_agent_id: '52713'
+    url: http://www.gutenberg.org/2009/agents/52713
+description: ''
+gutenberg_issued: '2020-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64008'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Histoire des ducs de Normandie, suivie de: Vie de Guillaume le Conquérant'
+url: http://www.gutenberg.org/ebooks/64008
