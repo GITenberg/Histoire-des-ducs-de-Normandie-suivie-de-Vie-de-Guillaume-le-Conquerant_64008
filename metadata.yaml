@@ -1,5 +1,5 @@
 _repo: Histoire-des-ducs-de-Normandie-suivie-de-Vie-de-Guillaume-le-Conquerant_64008
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor: &id001
     agent_name: Guizot, François
@@ -18,6 +18,9 @@ contributor:
     - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
     - https://en.wikipedia.org/wiki/François_Guizot
   translator: *id001
+covers:
+- cover_type: archival
+  image_path: 64008-h/images/cover90.jpg
 creator:
   authors:
   - agent_name: Jumièges, Guillaume de
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '52713'
     url: http://www.gutenberg.org/2009/agents/52713
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64008#Histoire-des-ducs-de-Normandie-suivie-de-Vie-de-Guillaume-le-Conquerant
 gutenberg_issued: '2020-12-10'
 gutenberg_type: Text
 identifiers:
